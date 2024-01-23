@@ -15,6 +15,14 @@ document.addEventListener('DOMContentLoaded', () => {
       blank: 'true',
       error: false,
     },
+     {
+      name: 'fnaf4',
+      link: 'https://fnafgame.io/fnaf-4',
+      image: 'https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/6/6c/Fnaf_4_desktop_icon.jpg/revision/latest?cb=20150723014651',
+      categories: ['all'],
+      blank: 'true',
+      error: false,
+    },
     {
       name: 'Dynast.io',
       link: 'https://dynast.io',
