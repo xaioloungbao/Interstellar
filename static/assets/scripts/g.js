@@ -15,7 +15,15 @@ document.addEventListener('DOMContentLoaded', () => {
       blank: 'true',
       error: false,
     },
-     {
+    {
+      name: 'pixle warfare',
+      link: 'https://pixelwarfare.io',
+      image: 'https://images.crazygames.com/pixel-warfare_16x9/20231106041100/pixel-warfare_16x9-cover?auto=format%2Ccompress&q=45&cs=strip&ch=DPR&w=1200&h=630&fit=crop',
+      categories: ['all'],
+      blank: 'true',
+      error: false,
+   },
+   {
       name: 'FNAF4',
       link: 'https://kevin.games/fnaf-4',
       image: 'https://kevin.games/assets/images/new/fnaf-4.png',
