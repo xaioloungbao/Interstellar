@@ -851,8 +851,8 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false,
     },
     {
-      name: 'FNAF 2 (Scratch)',
-      link: 'https://scratch.mit.edu/projects/469219637/embed/',
+      name: 'FNAF 2 alt',
+      link: 'https://ruihq.github.io/FNAF2/index.html',
       image: '/assets/media/icons/fnaf2.webp',
       categories: ['all'],
       error: false,
